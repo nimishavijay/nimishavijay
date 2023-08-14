@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello! :)
 
-<!--
-**nimishavijay/nimishavijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nimisha 🌼
 
-Here are some ideas to get you started:
+I am a UX designer currently working at Nextcloud. I think the Internet is an interesting place with interesting people, and I’m excited about building products that help make it safer, kinder, and more open. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some things I’m doing now:
+
+☁️ Designing an open source file sharing and collaboration platform at [Nextcloud](https://nextcloud.com/)
+
+🌻 Helping people transform their ideas into prototypes with the help of the [Prototype Fund](https://prototypefund.de/en/) and [Superbloom](https://simplysecure.org/)
+
+🖌️ Advocating for better design in open source software at [Open Source Design](https://opensourcedesign.net/)
+
+
